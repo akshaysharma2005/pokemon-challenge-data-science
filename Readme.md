@@ -38,10 +38,10 @@ This repository features an interactive web application with dynamic analytical 
 
 ## 💡 Strategic Insights & Key Findings
 
-- **Speed Supremacy**: Speed difference between fighters accounts for 36.2% of predictive model weight; going first often secures a knockout.
-- **Elemental Synergy**: Type advantages provide a 2x damage multiplier, effectively neutralizing a 100-point stat total deficit.
-- **Glass Cannons vs Tanks**: High offensive speed Pokémon win 67% of battles against high-defense low-speed tanks.
-- **Model Performance**: Gradient Boosted Trees achieve 89.4% test accuracy on unseen 10,000 combat holdout sets.
+- **Speed Advantage**: First strike turn advantage accounts for 36.2% of model weights.
+- **Type Advantage**: Super-effective 2x multipliers bridge massive stat gaps.
+- **Model Choice**: Gradient Boosted Trees yield 89.4% cross-validated accuracy.
+- **Stat Clustering**: Clear clustering between fast sweepers, physical walls, and special attackers.
 
 ---
 
